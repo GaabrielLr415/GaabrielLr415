@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel L. Colquehuanca
 
 
-**`Estudante - Ciência da Computação`´**
+**`Estudante - Ciência da Computação`**
 
 Olá! Me chamo Gabriel, estudante de Ciencia da Computação na Faculdade Impacta Tecnologia (FIT). 
  
