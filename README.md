@@ -17,7 +17,7 @@ Olá! Me chamo Gabriel, estudante de Ciencia da Computação na Faculdade Impact
 
 ##
 
-**`🤖 Linguagens e Tecnologia`**
+**`🤖 Linguagens e Softwares`**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaab-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
