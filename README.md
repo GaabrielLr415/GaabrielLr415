@@ -21,9 +21,8 @@ Olá! Me chamo Gabriel, estudante de Ciencia da Computação na Faculdade Impact
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaab-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gaab-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gaab-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gaab-JAVA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Gaab-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg">
+  <img align="center" alt="Gaab-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg">
 </div>
 
 ##
