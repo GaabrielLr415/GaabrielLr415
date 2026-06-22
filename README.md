@@ -64,7 +64,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, computação em 
 
 ---
 
-## 🎨 Ferramentas de Design
+## 🎨 Design e Criação
 
 <div style="display: inline_block"><br>
 
@@ -73,6 +73,10 @@ Tenho interesse em desenvolvimento de software, banco de dados, computação em 
 <img align="center" alt="Illustrator" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
 
 <img align="center" alt="Dreamweaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg">
+
+<img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+<img align="center" alt="Canva" height="50" width="50" src="https://cdn.simpleicons.org/canva">
 
 </div>
 
