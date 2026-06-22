@@ -11,13 +11,10 @@ Tenho interesse em desenvolvimento de software, banco de dados, computação em 
 ## 🚀 Sobre Mim
 
 - 🎓 Graduando em Ciência da Computação
-- 💻 Desenvolvedor Java
+- 💻 Desenvolvedor Web
 - ☁️ Estudando Computação em Nuvem (AWS)
-- 🗄️ Conhecimentos em SQL e Banco de Dados
-- 🌐 Desenvolvimento Web
-- 🎨 Designer Digital
+- 🎨 Designer
 - 📚 Criador do projeto TechBook
-- 📈 Sempre aprendendo e evoluindo
 
 ---
 
@@ -110,11 +107,3 @@ Sistema desenvolvido em Java para gerenciamento e organização de livros.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielLr415&layout=compact&theme=tokyonight)
 
 ---
-
-## 🎯 Atualmente
-
-- ☁️ Estudando AWS Cloud
-- 💻 Aprimorando Java e SQL
-- 📚 Evoluindo o projeto TechBook
-- 🌐 Desenvolvendo aplicações web
-- 🎨 Produzindo projetos de design digital
