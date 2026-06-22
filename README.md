@@ -1,26 +1,27 @@
 # 👨‍💻 Gabriel L. Colquehuanca
 
-**Estudante de Ciência da Computação | Desenvolvedor Web e Designer**
+### Ciência da Computação • Java • AWS Cloud • Design
 
-Olá! Me chamo Gabriel L. Colquehuanca.
+Olá! Sou Gabriel L. Colquehuanca, estudante de Ciência da Computação na Faculdade Impacta Tecnologia (FIT).
 
-Sou estudante de Ciência da Computação na Faculdade Impacta Tecnologia (FIT), com interesse em desenvolvimento de software, banco de dados, computação em nuvem e soluções web.
+Tenho interesse em desenvolvimento de software, banco de dados, computação em nuvem, desenvolvimento web e design digital. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, certificações e aprendizado contínuo.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-- 🎓 Estudante de Ciência da Computação
+- 🎓 Graduando em Ciência da Computação
 - 💻 Desenvolvedor Java
-- ☁️ Estudando AWS Cloud
+- ☁️ Estudando Computação em Nuvem (AWS)
 - 🗄️ Conhecimentos em SQL e Banco de Dados
-- 🌐 Desenvolvimento Web com HTML e CSS
+- 🌐 Desenvolvimento Web
+- 🎨 Designer Digital
 - 📚 Criador do projeto TechBook
-- 📈 Sempre buscando novos desafios e aprendizado contínuo
+- 📈 Sempre aprendendo e evoluindo
 
 ---
 
-## 🌐 Redes e Contato
+## 🌐 Contato
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-l-colquehuanca-899407135/" target="_blank">
@@ -42,17 +43,17 @@ Sou estudante de Ciência da Computação na Faculdade Impacta Tecnologia (FIT),
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tecnologias
 
 <div style="display: inline_block"><br>
+
+<img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 <img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
@@ -66,17 +67,32 @@ Sou estudante de Ciência da Computação na Faculdade Impacta Tecnologia (FIT),
 
 ---
 
+## 🎨 Ferramentas de Design
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Photoshop" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+
+<img align="center" alt="Illustrator" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
+
+<img align="center" alt="Dreamweaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg">
+
+</div>
+
+---
+
 ## 📚 Projeto em Destaque
 
 ### TechBook
 
-Sistema desenvolvido para gerenciamento e organização de livros.
+Sistema desenvolvido em Java para gerenciamento e organização de livros.
 
-🔹 Linguagem: Java  
-🔹 Banco de Dados: MySQL  
-🔹 Objetivo: Aplicar conceitos de desenvolvimento de software e banco de dados em um projeto real.
+🔹 Java  
+🔹 MySQL  
+🔹 Orientação a Objetos  
+🔹 Banco de Dados Relacional
 
-🚧 Projeto em constante evolução.
+🚧 Projeto em desenvolvimento contínuo.
 
 ---
 
@@ -89,12 +105,16 @@ Sistema desenvolvido para gerenciamento e organização de livros.
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Atualmente
 
-Busco oportunidades para desenvolver minhas habilidades em programação, banco de dados, computação em nuvem e desenvolvimento de software, contribuindo para projetos que gerem impacto real.
+- ☁️ Estudando AWS Cloud
+- 💻 Aprimorando Java e SQL
+- 📚 Evoluindo o projeto TechBook
+- 🌐 Desenvolvendo aplicações web
+- 🎨 Produzindo projetos de design digital
