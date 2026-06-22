@@ -53,7 +53,7 @@ Tenho interesse em desenvolvimento de software, banco de dados, computação em 
 
 <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="center" alt="MySQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="SQL Server" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
@@ -69,11 +69,14 @@ Tenho interesse em desenvolvimento de software, banco de dados, computação em 
 
 <img align="center" alt="Illustrator" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
 
+<img align="center" alt="InDesign" height="50" width="50" src="https://cdn.simpleicons.org/adobeindesign/FF3366">
+
 <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 <img align="center" alt="Dreamweaver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-original.svg">
 
 </div>
+
 
 ---
 
