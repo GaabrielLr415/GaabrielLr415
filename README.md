@@ -1,10 +1,10 @@
 # 👨‍💻 Gabriel L. Colquehuanca
 
-### Ciência da Computação • Java • AWS Cloud • Design
+### Estudante de Ciência da Computação | Design & Desenvolvedor Jr.
 
 Olá! Sou Gabriel L. Colquehuanca, estudante de Ciência da Computação na Faculdade Impacta Tecnologia (FIT).
 
-Tenho interesse em desenvolvimento de software, banco de dados, computação em nuvem, desenvolvimento web e design digital. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, certificações e aprendizado contínuo.
+Tenho interesse em desenvolvimento web e desenvolvimento de software, unindo conhecimentos de programação e design digital para criar soluções funcionais e intuitivas. Atualmente aprimoro minhas habilidades em Java, JavaScript, banco de dados e tecnologias voltadas ao desenvolvimento de aplicações.
 
 ---
 
