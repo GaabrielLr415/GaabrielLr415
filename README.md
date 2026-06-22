@@ -93,13 +93,6 @@ Sistema desenvolvido em Java para gerenciamento e organização de livros.
 
 ---
 
-## 🏆 Certificações
-
-- AWS Academy Cloud Foundations
-- AWS Academy Cloud Architecting
-
----
-
 ## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaabrielLr415&show_icons=true&theme=tokyonight)
