@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel L. Colquehuanca
 
-**Estudante de Ciência da Computação | Desenvolvedor Java**
+**Estudante de Ciência da Computação | Desenvolvedor Web e Designer**
 
 Olá! Me chamo Gabriel L. Colquehuanca.
 
